@@ -12,6 +12,6 @@ The script contains information about data preprocessing, data visualization and
 
 Additionally, I used correlation, standardization, cross-validation and the importance of features. I also found the best decision tree parameters.
 
-The highest score on kaggle I received was: 0.77272.
+The highest score on kaggle I received was: 0.78468.
 
 More information and data can be found here: [Challenge on kaggle](https://www.kaggle.com/c/titanic/overview).
